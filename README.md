@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/BannerAICareer.jpg" alt="Gabriel Garrod - AI Prompt Engineer" width="100%"/>
+  <img src="./assets/BannerAICareer.jpeg" alt="Gabriel Garrod - AI Prompt Engineer" width="100%"/>
 </div>
 
 # Gabriel Garrod 🤖
