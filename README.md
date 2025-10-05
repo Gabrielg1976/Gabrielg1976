@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/header-banner.png" alt="Gabriel Garrod - AI Prompt Engineer" width="100%"/>
+</div>
+
 # Gabriel Garrod 🤖
 
 ### AI Prompt Engineer | LLM Specialist | AgTech Innovator
